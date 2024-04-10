@@ -4,8 +4,8 @@
 
 This repository contains analysis and visualization of a student study performance dataset sourced from Kaggle. The dataset includes information on gender, race/ethnicity, parental level of education, lunch type, test preparation course, math scores, reading scores, and writing scores.
 
-**Tools Used:
-**
+**Tools Used**
+
 Analysis: Jupyter Notebook
 Visualization: Tableau
 
@@ -32,8 +32,7 @@ Utilized Tableau for interactive visualizations.
 Created charts and graphs to represent various aspects of the dataset.
 Enhanced understanding of student performance trends through visualization.
 
-**Files Included:
-**
+**Files Included:**
 
 Clean Dataset
 Jupyter Notebook containing the analysis code.
