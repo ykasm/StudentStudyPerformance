@@ -26,7 +26,8 @@ Writing Score: Score achieved in the writing exam.
 Explored the distribution of scores across different demographics.
 Investigated the impact of parental education level and test preparation on student performance.
 Examined any correlations between scores and other factors.
-Visualization Highlights:
+
+**Visualization Highlights:**
 
 Utilized Tableau for interactive visualizations.
 Created charts and graphs to represent various aspects of the dataset.
